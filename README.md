@@ -4,7 +4,6 @@ COMP9001 Final Project
 
 I'm building a **To-Do List application** with structured logic and smart daily planning.
 
----
 
 ## ✅ Core Task Logic
 
@@ -13,13 +12,11 @@ I'm building a **To-Do List application** with structured logic and smart daily 
   - If a task has subtasks → Progress = percentage of completed subtasks
   - If no subtasks → Treated as a binary task: 0% (incomplete) or 100% (complete)
 
----
 
 ## 📈 Overall Progress
 
 - The system shows **overall progress** as the **average of all top-level tasks' progress**
 
----
 
 ## 🏷️ Task Metadata
 
@@ -29,7 +26,6 @@ Each task includes:
 - ⏱️ **Estimated time** to complete (in minutes)
 - 📅 **Optional due date**
 
----
 
 ## 📅 Daily Planning Feature
 
@@ -44,8 +40,6 @@ User defines a **daily template** like:
 | 14:00–16:00     | Work     |
 | 20:00–21:30     | Life     |
 
----
-
 ### ⚙️ Planning Logic:
 
 - 🗃️ Each task has a `category` and `estimated duration`
@@ -55,8 +49,6 @@ User defines a **daily template** like:
 - ⛓️ Match tasks into template blocks based on category
 - 🗓️ Auto-generate a realistic daily **schedule**
 
----
-
 ## 🧰 Technologies & Topics Covered
 
 - 🧱 **Object-Oriented Programming** (`Task`, `TaskManager`)
@@ -65,7 +57,5 @@ User defines a **daily template** like:
 - ⏳ Time formatting and logic
 - 💾 *(Optional)* File I/O (e.g. JSON saving/loading)
 - 🖼️ *(Optional)* Simple GUI using `tkinter`
-
----
 
 > 💡 This project balances structured data modeling with real-life task planning — and it's beginner-friendly yet open for expansion!
