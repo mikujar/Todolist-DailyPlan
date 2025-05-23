@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/f0664cd9-8813-4b82-891e-33de780a58c2)
 # 🧠 Todolist-DailyPlan
 COMP9001 Final Project
 - RUN main_gui.py for GUI applictaion
