@@ -1,6 +1,5 @@
-# Todolist-DailyPlan
+# 🧠 Todolist-DailyPlan
 COMP9001 Final Project
-# 🧠 Structured To-Do Planner
 
 I'm building a **To-Do List application** with structured logic and smart daily planning.
 
