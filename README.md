@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/f0664cd9-8813-4b82-891e-33de780a58c2)
 ![image](https://github.com/user-attachments/assets/36a89428-2dd5-47ca-8021-f86782ae8984)
+<img src="https://github.com/user-attachments/assets/f0664cd9-8813-4b82-891e-33de780a58c2" width="500"/>
 
 # 🧠 Todolist-DailyPlan
 COMP9001 Final Project
