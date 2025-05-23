@@ -1,5 +1,7 @@
 # 🧠 Todolist-DailyPlan
 COMP9001 Final Project
+RUN main_gui.py for GUI applictaion
+RUN dailyplan.py or todolist.py for CLI application
 
 I'm building a **To-Do List application** with structured logic and smart daily planning.
 
