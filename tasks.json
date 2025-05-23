@@ -1,0 +1,200 @@
+[
+  {
+    "title": "9001",
+    "category": "Study",
+    "estimated_time": "20",
+    "due_date": "2025-05-24",
+    "completed": true,
+    "subtasks": [
+      {
+        "title": "final",
+        "category": "Study",
+        "estimated_time": "10",
+        "due_date": "2025-05-25",
+        "completed": false,
+        "subtasks": []
+      },
+      {
+        "title": "discussion",
+        "category": "Study",
+        "estimated_time": "25",
+        "due_date": "2025-06-07",
+        "completed": false,
+        "subtasks": []
+      }
+    ]
+  },
+  {
+    "title": "9120",
+    "category": "Study",
+    "estimated_time": "30",
+    "due_date": "2025-05-26",
+    "completed": false,
+    "subtasks": [
+      {
+        "title": "review",
+        "category": "Study",
+        "estimated_time": "10",
+        "due_date": "2025-05-26",
+        "completed": false,
+        "subtasks": []
+      },
+      {
+        "title": "final",
+        "category": "Study",
+        "estimated_time": "10",
+        "due_date": "2025-05-26",
+        "completed": false,
+        "subtasks": []
+      }
+    ]
+  },
+  {
+    "title": "9601",
+    "category": "General",
+    "estimated_time": "10",
+    "due_date": "2025-05-27",
+    "completed": true,
+    "subtasks": []
+  },
+  {
+    "title": "Find job",
+    "category": "Work",
+    "estimated_time": "20",
+    "due_date": "2025-06-01",
+    "completed": true,
+    "subtasks": []
+  },
+  {
+    "title": "Draw",
+    "category": "Creative",
+    "estimated_time": "20",
+    "due_date": "2025-07-05",
+    "completed": true,
+    "subtasks": []
+  },
+  {
+    "title": "5990",
+    "category": "Study",
+    "estimated_time": "5",
+    "due_date": "2025-06-03",
+    "completed": false,
+    "subtasks": [
+      {
+        "title": "final",
+        "category": "Study",
+        "estimated_time": "3",
+        "due_date": "2025-06-05",
+        "completed": false,
+        "subtasks": []
+      }
+    ]
+  },
+  {
+    "title": "Music",
+    "category": "Creative",
+    "estimated_time": "30",
+    "due_date": "2025-09-03",
+    "completed": true,
+    "subtasks": []
+  },
+  {
+    "title": "Grocery Shopping",
+    "category": "Life",
+    "estimated_time": "45",
+    "due_date": "2025-05-25",
+    "completed": false,
+    "subtasks": [
+      {
+        "title": "Buy vegetables",
+        "category": "Life",
+        "estimated_time": "15",
+        "due_date": "2025-05-25",
+        "completed": false,
+        "subtasks": []
+      },
+      {
+        "title": "Get eggs and milk",
+        "category": "Life",
+        "estimated_time": "10",
+        "due_date": "2025-05-25",
+        "completed": false,
+        "subtasks": []
+      },
+      {
+        "title": "Check pantry",
+        "category": "Life",
+        "estimated_time": "5",
+        "due_date": "2025-05-25",
+        "completed": false,
+        "subtasks": []
+      }
+    ]
+  },
+  {
+    "title": "Portfolio Website",
+    "category": "Work",
+    "estimated_time": "120",
+    "due_date": "2025-06-10",
+    "completed": false,
+    "subtasks": [
+      {
+        "title": "Set up project structure",
+        "category": "Work",
+        "estimated_time": "30",
+        "due_date": "2025-06-10",
+        "completed": false,
+        "subtasks": []
+      },
+      {
+        "title": "Design homepage",
+        "category": "Work",
+        "estimated_time": "40",
+        "due_date": "2025-06-10",
+        "completed": false,
+        "subtasks": []
+      },
+      {
+        "title": "Deploy to GitHub Pages",
+        "category": "Work",
+        "estimated_time": "50",
+        "due_date": "2025-06-10",
+        "completed": false,
+        "subtasks": []
+      }
+    ]
+  },
+  {
+    "title": "Read Book - Atomic Habits",
+    "category": "Life",
+    "estimated_time": "90",
+    "due_date": "2025-06-05",
+    "completed": false,
+    "subtasks": [
+      {
+        "title": "Chapter 1–2",
+        "category": "Life",
+        "estimated_time": "30",
+        "due_date": "2025-06-05",
+        "completed": false,
+        "subtasks": []
+      },
+      {
+        "title": "Chapter 3–5",
+        "category": "Life",
+        "estimated_time": "30",
+        "due_date": "2025-06-05",
+        "completed": false,
+        "subtasks": []
+      },
+      {
+        "title": "Take notes",
+        "category": "Life",
+        "estimated_time": "30",
+        "due_date": "2025-06-05",
+        "completed": true,
+        "subtasks": []
+      }
+    ]
+  }
+]
