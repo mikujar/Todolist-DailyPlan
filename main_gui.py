@@ -218,6 +218,7 @@ def show_delete_task_dialog():
                 else:
                     return
             save_tasks_to_json()
+            refresh_tasks()
             dialog.destroy()
         except:
             return
